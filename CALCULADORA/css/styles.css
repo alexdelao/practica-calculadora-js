@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+.container{
+    max-width: 280px;
+    margin: 25px auto;
+    /* border: solid 1px black; */
+    padding: 6px;
+}
+.display{
+    letter-spacing: 2px;
+    padding: 10px;
+    /* border: solid 1px black; */
+    width: 230px;
+    margin: 0 auto;
+    background: rgb(194, 22, 73);
+    color: white;
+    text-align: right;
+}
+button{
+    margin: 2px;
+    padding: 5px;
+    width: 50px;
+    margin-bottom: 10px;
+}
+.lorem{
+    font-size: 12px;
+    padding-top: 10px;
+    color: deepskyblue;
+}
+
+.lorem:hover{
+    color: fuchsia;
+    font-weight: bold;
+}
+a:link
+{
+text-decoration:none;
+}
+.igual{
+    width: 220px;
+}
+
